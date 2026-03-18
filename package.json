@@ -6,6 +6,7 @@
   "main": "index.ts",
   "scripts": {
     "start": "tsx index.ts",
+    "to-swift": "tsx to-swift.ts",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
