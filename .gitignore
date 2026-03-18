@@ -1,0 +1,5 @@
+top-apps.json
+node_modules
+icons
+.DS_Store
+pnpm-lock.yaml
